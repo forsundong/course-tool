@@ -1,0 +1,5 @@
+{
+  "name": "Course Path Info Extractor",
+  "description": "A professional tool for content developers to quickly extract KEYs, scene names, board names, and knowledge points from course arrangement paths using the Merton API.",
+  "requestFramePermissions": []
+}
